@@ -22,7 +22,7 @@ export default function LoginModal({isOpen, setIsOpen} : Props) {
                 </DialogTitle>
             </DialogHeader>
             <div>
-                <Image src="/ACLC_SC_Logo_A2.png" alt="logo_aclc" width={300} height={100} className="absolute bottom-0 right-0 p-2 opacity-45 -z-10"/>
+                <Image src="/ACLC_SC_Logo_A3.png" alt="logo_aclc" width={300} height={100} className="absolute bottom-0 right-0 p-2 opacity-45 -z-10"/>
                 <div className="flex flex-col gap-2">
                     <div className="flex flex-col gap-1">
                         <label className="text-blue-900 text-sm font-semibold">Student Number</label>

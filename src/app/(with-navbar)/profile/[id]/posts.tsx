@@ -4,7 +4,7 @@ import { Avatar, AvatarBadge, AvatarFallback, AvatarImage } from "@/components/u
 import { Separator } from "@/components/ui/separator";
 import { Textarea } from "@/components/ui/textarea";
 import { Laugh, MessageSquare, Repeat } from "lucide-react";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 export default function Posts() {
     const [comment, setComment] = useState(false)

@@ -1,5 +1,4 @@
 import { Avatar, AvatarBadge, AvatarImage } from "@/components/ui/avatar";
-import { Button } from "@/components/ui/button";
 import { ChevronDown, ChevronRight, House, Megaphone, SquareArrowRightExit } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
