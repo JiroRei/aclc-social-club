@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function Navbar(){
     const id = "24004070900"
     return(
-        <main className=" sticky top-0 z-50">
+        <main className=" sticky top-0 z-50 shadow-xl">
             <div className="flex justify-between items-center bg-red-700 p-3">
                 <div className="flex gap-2 items-center">
                     <Image src="/ACLC_SC_Logo_E.png" alt="logo_aclc" width={60} height={50} className=""/>
